@@ -7,7 +7,7 @@ I cannot be held responsible for improper handling.*
 ## NOTES
 Just a few things to consider before using:
 
-- My code is not "modular" or in a "function" which it very could/should be
+- My code is not "modular" or in a "function" which it very well could/should be
 - Major credit to pspete for amazing PowerShell modules: https://github.com/pspete/
 - Make sure you edit ALL the variables at the top of the script to match your environment
 - Check for any "Change me" items in the script for your environment
@@ -19,7 +19,7 @@ All notable changes to this project will be documented in the [Changelog](CHANGE
 
 ## Author
 
-- **Micah Holt** - [csautomator](https://github.com/csautomator)
+- **Micah Holt** - [mhdevop](https://github.com/mhdevop/CABulkDownloader)
 
 ## License
 
